@@ -1,3 +1,2 @@
-## learngit
-
-This is a learning git project!
+## learning git project
+This is a learngit project.
